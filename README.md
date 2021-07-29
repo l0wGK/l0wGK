@@ -1,5 +1,5 @@
 - 👋 Hi, I’m l0wGK
-- 👀 My priority is privvacy and security
+- 👀 My priority is privacy and security
 - 🌱 I’m currently re-learning Python
 - 📫 If you want to contact me add my Discord: low#0001
 
