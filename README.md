@@ -5,6 +5,7 @@
 
 Privacy & Security projects:
 https://github.com/l0wGK/password-generator
+https://passwordgen.xyz/ (https://github.com/l0wGK/password-generator)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l0wgk&theme=radical)
