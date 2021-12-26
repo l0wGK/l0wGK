@@ -8,4 +8,4 @@ https://github.com/l0wGK/password-generator
 https://passwordgen.xyz/ (https://github.com/l0wGK/password-generator)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l0wgk&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0wgk)](https://github.com/anuraghazra/github-readme-stats)
